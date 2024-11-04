@@ -1,4 +1,4 @@
-@clover0309 (별 aka Byul)
+@clover0309 (이종엽 aka Byul)
 
 2017/02 ~ 2022/02 경남정보대학교 컴퓨터학과 
 
