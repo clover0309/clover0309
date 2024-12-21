@@ -2,6 +2,6 @@
 
 2024/10/16 ~ 쌍용교육센터 AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 과정 진행중.
 
-개인 홈서버 : lilpa.moe
+개인 홈서버 : lilpa.moe (공사중)
 
 
