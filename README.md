@@ -1,6 +1,6 @@
 2017/02 ~ 2022/02 경남정보대학교 컴퓨터학과 
 
-2024/10/16 ~ 2025/04/29(예정) 쌍용교육센터 AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 과정 진행중.
+2024/10/16 ~ 2025/04/28 쌍용교육센터 AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 과정 진행중.
 
 백엔드 개발자, 시스템 엔지니어 지망
 
