@@ -1,5 +1,4 @@
-백엔드 개발자 및 시스템 엔지니어를 목표로 하고 있는 개발자입니다.  
-현재 다양한 기술 스택과 프로젝트 경험을 통해 성장 중입니다.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clover0309&layout=compact&theme=dark)
 
 ---
 
