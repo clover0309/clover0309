@@ -36,6 +36,9 @@
 ### Tools & Platforms
 - IntelliJ, VSCode, Git, Github, AWS (EC2), Linux
 
+### 추가 개발중인 스택
+- Kotlin, C
+
 ---
 
 ## 🏅 자격 사항
