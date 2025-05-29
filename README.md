@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clover0309&layout=compact&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=clover0309)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
