@@ -17,11 +17,6 @@
 - **웹 개발자**
 ---
 
-## 🌐 개인 홈서버
-- **홈서버 주소:** [lilpa.moe](http://lilpa.moe) *(공사중)*
-
----
-
 ## 💻 기술 스택
 ### Backend
 - Java, Spring, Spring Boot, JPA, MyBatis, NodeJS
@@ -35,18 +30,9 @@
 ### Tools & Platforms
 - IntelliJ, VSCode, Git, Github, AWS (EC2), Linux, MAC
 
-### 추가 개발중인 스택
-- Kotlin, C
-
 ---
 
 ## 🏅 자격 사항
 - **정보처리기사 필기 합격**
 - **네트워크관리사 2급**
 - **리눅스마스터 2급**
-
----
-
-## 📈 목표와 비전
-분야를 가리지 않고, 개발자 시장에서 올라운더가 되고 싶습니다.
----
