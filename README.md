@@ -1,7 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clover0309&layout=compact&theme=dark)
-
----
-
 ## 📚 교육 이력
 - **2024/10/16 ~ 2025/04/28**  
   쌍용교육센터 AWS와 Docker & Kubernetes를 활용한 Java Full-Stack 과정
