@@ -1,1 +1,1 @@
-<img width="222" height="192" alt="original_6" src="https://github.com/user-attachments/assets/14b15b08-cfd2-495b-a3c9-a725c7da9fb0" />
+![KakaoTalk_20251127_003157048](https://github.com/user-attachments/assets/53deea93-3a92-4290-a750-a1293125ca16)
