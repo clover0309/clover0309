@@ -9,7 +9,7 @@
 | 분야 | 기술 |
 |---|---|
 | AI | MCP, AI Agent, LiteLLM, LLM, VLM, Fine-Tuning, LoRA, RAG, Embedding, Vector DB |
-| Backend | Java, JSP/Servlet, Spring Boot, Python, FastAPI |
+| Backend | Python, FastAPI, Java, Spring Boot, JSP/Servlet |
 | Frontend | React, JavaScript, TypeScript, Tailwind CSS |
 | Database & ORM | MySQL, SQLite, MyBatis, JPA, SQLAlchemy |
 | DevOps | Docker, AWS, Git, Ubuntu |
