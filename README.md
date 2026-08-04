@@ -8,7 +8,7 @@
 
 | Domain | Tech |
 |---|---|
-| AI | MCP, AI Agent, LiteLLM, LLM/VLM (PyTorch, Hugging Face, RAG, Fine-Tuning) |
+| AI | MCP, AI Agent, LiteLLM, LLM/VLM (Hugging Face, RAG, Fine-Tuning ...) |
 | Backend | Python, FastAPI, Java, Spring Boot, JSP/Servlet |
 | Frontend | React, JavaScript, TypeScript, Tailwind CSS |
 | Database & ORM | MySQL, SQLite, Vector DB (ChromaDB), MyBatis, JPA, SQLAlchemy |
