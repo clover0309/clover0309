@@ -14,8 +14,3 @@
 | Database & ORM | MySQL, SQLite, Vector DB (ChromaDB), MyBatis, JPA, SQLAlchemy |
 | DevOps | Docker, AWS, Git, Ubuntu |
 | Tools & Environment | IntelliJ, VS Code, Claude Code, Notion |
-
-
-## 📚 Study
-- K8S
-- C# (WinForm, ASP)
