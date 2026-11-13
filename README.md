@@ -2,7 +2,7 @@
 
 | Staus | Company | Position | Period |
 |---|---|---|---|
-| Current | GAMPLAB Inc. | Development Engineer | 2026.06 ~ 2026.11 |
+| Current | GAMPLAB Inc. | Development Engineer | 2026.06 ~ 2026.12 |
 
 ## 🛠 Tech Stack
 
